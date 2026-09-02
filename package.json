@@ -48,7 +48,7 @@
     "folder-hash": "~4.0.4",
     "hardhat": "2.17.3",
     "hardhat-contract-sizer": "2.10.0",
-    "hardhat-deploy": "0.11.22",
+    "hardhat-deploy": "2.0.26",
     "hardhat-gas-reporter": "1.0.9",
     "prettier": "2.8.2",
     "prettier-plugin-solidity": "1.1.1",
